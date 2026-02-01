@@ -1,0 +1,9 @@
+[submodule "bash-course-by-ysap"]
+	path = bash-course-by-ysap
+	url = https://github.com/kamilkoziol/bash-course-by-ysap
+[submodule "exercism"]
+	path = exercism
+	url = https://github.com/kamilkoziol/exercism
+[submodule "ziglings"]
+	path = ziglings
+	url = https://github.com/kamilkoziol/ziglings
